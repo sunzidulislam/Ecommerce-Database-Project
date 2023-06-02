@@ -1,3 +1,2 @@
-# Ecommerce-Database-Project
-    @schema
-    ![drawSQL-rifat-export-2023-06-02](https://github.com/sunzidulislam/Ecommerce-Database-Project/assets/60359567/89a10ffe-79d2-4280-b814-6f12f1a0d69a)
+# Ecommerce-Database-Project![drawSQL-rifat-export-2023-06-02](https://github.com/sunzidulislam/Ecommerce-Database-Project/assets/60359567/0aa9dd7f-f69e-4bea-a168-362fda9b3cf3)
+
